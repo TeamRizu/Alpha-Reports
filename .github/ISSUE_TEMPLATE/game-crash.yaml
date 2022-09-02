@@ -33,7 +33,6 @@ body:
       label: Game Mode
       description: What Game Mode are you playing on?
       options:
-        - None
         - dance
         - pump
         - smx
